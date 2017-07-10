@@ -83,7 +83,8 @@
     <plugin name="cordova-plugin-statusbar" spec="2.2.2" />
     <plugin name="cordova-plugin-device" spec="1.1.4" />
     <plugin name="cordova-plugin-splashscreen" spec="~4.0.1" />
+    <engine name="android" spec="~6.2.3" />
     <plugin name="cordova-plugin-googleplus" spec="^5.1.1">
-        <variable name="REVERSED_CLIENT_ID" value="com.googleusercontent.apps.831815589476-ld6hbrpain838170vs94ipvr2a5cncd0" />
+        <variable name="REVERSED_CLIENT_ID" value="com.googleusercontent.apps.446488996972-nbtjia6taq2cnkc2mok4l5vmuukot705" />
     </plugin>
 </widget>
